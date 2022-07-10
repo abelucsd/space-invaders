@@ -1,0 +1,16 @@
+.game-container {
+    display: flex;        
+    align-items: flex-start;
+    justify-content: start;
+    align-items: stretch;
+}
+
+.temp {
+    display: flex;
+    position: relative;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;   
+}
